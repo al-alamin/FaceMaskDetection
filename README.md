@@ -4,7 +4,9 @@
 # Links:
 **Report:** https://arxiv.org/abs/2112.07913 (Pre-print)
 
-**Presentation:** [619_data_analytics_project_presentation.pptx](https://github.com/al-alamin/FaceMaskDetection/Project_presentation.pptx)
+**Presentation:** FaceMask_detection_presentation.pptx
+(https://github.com/al-alamin/FaceMaskDetection/files/8617642/FaceMask_detection_presentation.pptx)
+
 
 <br>
 
