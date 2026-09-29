@@ -1,0 +1,17 @@
+schema_version: 1
+summary: A locally maintained research fork documenting a comparative study of machine-learning
+  approaches to automated face-mask detection.
+state: unknown
+intended_readers:
+- Researchers and maintainers working with the face-mask-detection study material.
+consult_when:
+- Locating the documented model comparisons, report/presentation references or dataset
+  provenance.
+watch_when:
+- Changes to the locally maintained study README, code/ or report/presentation organization.
+current_capabilities:
+- README documents VGG19/ResNet50 comparisons and transfer-learning experiments; code/,
+  a report and a presentation are tracked.
+- A local README update relative to upstream and a fork-local presentation reference
+  establish locally maintained study documentation.
+planned_capabilities: []
